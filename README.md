@@ -1,7 +1,9 @@
 **Project Overview**
+
 This project analyzes the 2016 Airbnb housing market in Seattle to identify pricing trends, seasonal demand, and high-value geographic locations. The goal was to provide data-driven insights for potential hosts looking to optimize their rental income based on property size and location.
 
 **Data Stack & Methodology**
+
 1.Data Sourcing: Processed a dataset of Seattle Airbnb listings (Calendar and Listings data).
 
 2.Data Cleaning: Handled missing values and formatted date fields using Excel/Power Query.
