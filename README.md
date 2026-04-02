@@ -5,9 +5,7 @@ This project analyzes the 2016 Airbnb housing market in Seattle to identify pric
 **Data Stack & Methodology**
 
 1.Data Sourcing: Processed a dataset of Seattle Airbnb listings (Calendar and Listings data).
-
 2.Data Cleaning: Handled missing values and formatted date fields using Excel/Power Query.
-
 3.Analysis: Performed aggregations to calculate average prices and distinct listing counts.
 
 4.Visualization: 
@@ -24,3 +22,6 @@ Calculated Fields for Average Price per Bedroom.
 2. There is a significant jump in pricing for 4+ bedroom properties, suggesting a niche market for larger groups/families.
 3. The data shows a steady upward trend in total revenue starting in March, peaking during the summer months and holding steady through the end of the year.
 4. While 1-bedroom listings represent the highest volume (1,811 listings), the steep price increase for 3 and 4-bedroom homes indicates a potential opportunity for investors in larger properties.
+
+**Link to Tableau Public**
+https://public.tableau.com/views/TableauAirbnbProject_17745128356840/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
