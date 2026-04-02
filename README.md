@@ -24,4 +24,5 @@ Calculated Fields for Average Price per Bedroom.
 4. While 1-bedroom listings represent the highest volume (1,811 listings), the steep price increase for 3 and 4-bedroom homes indicates a potential opportunity for investors in larger properties.
 
 **Link to Tableau Public**
+
 https://public.tableau.com/views/TableauAirbnbProject_17745128356840/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
